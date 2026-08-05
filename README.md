@@ -1,10 +1,14 @@
-# xrkdnljtzs - Lue Walker
+# xrkdnljtzs
+Lue Walker, a whispered promise in the expanse of code.
+International Data Consultant, navigating the intricacies of digital cartography.
+Crafting architecture that scales, yet remains elegant.
+Tools: AWS, Tailwind, Linux, React, Flutter
+Vibe: clean code advocate
 
-Lead Mobility Liaison by day, algorithm explorer by night. My reality is a labyrinth of protocols waiting to be hacked.
+At the intersection of technology and society, I focus on backing up the invisible infrastructure: our drivers.
+Their unseen labor fuels our existence.
+Empowering them with future-proofed solutions.
 
-`Compatible logistical contingency` - a mantra for the uncharted territories I traverse.
+Motto: 'Future-proofed next generation orchestration'
 
-Languages: C#
-
-Tools: Vue, AWS, Svelte, NestJS, Next.js
-
+Explore my creations and let's orchestrate the future together.
