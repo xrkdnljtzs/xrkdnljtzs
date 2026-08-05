@@ -1,22 +1,10 @@
-```markdown
-# Lue Walker - Regional Functionality Administrator
+# xrkdnljtzs - Lue Walker
 
-I navigate the realms of code, unearthing hidden paths to parallel efficiency.
+Lead Mobility Liaison by day, algorithm explorer by night. My reality is a labyrinth of protocols waiting to be hacked.
 
-**Tools of the Trade:**
-  - TypeScript: the alchemist of clean code
-  - Redis: whispering in the ears of the machines
-  - MongoDB: the sage of data wisdom
-  - GCP: the kingdom of scalable realms
-  - React & Svelte: the artisans of UI nuance
-  - Firebase: the guardian of reactive fire
+`Compatible logistical contingency` - a mantra for the uncharted territories I traverse.
 
-**Motto:** Operative systemic parallelism - unlocking the symphony of concurrent code
+Languages: C#
 
-**Focus:** bypassing the entanglements of microchips
+Tools: Vue, AWS, Svelte, NestJS, Next.js
 
-Let the art of clean code be my guide.
-
-[GitHub Profile](https://github.com/xrkdnljtzs)
-
-```
